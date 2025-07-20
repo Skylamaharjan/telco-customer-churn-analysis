@@ -32,8 +32,8 @@ The Python-based analysis was done in **Google Colab** using:
 - `seaborn` and `matplotlib` for visualizations
 - EDA on churn vs contract type, gender, tenure, and internet service
 
- Notebook: [`notebooks/telco_customer_churn.ipynb`](./notebooks)  
- Visuals: [`visuals/`](./visuals)
+Notebook: [`Advertising_Analysis.ipynb`](./notebooks/Advertising_Analysis.ipynb)  
+Python Visuals: [`visuals/`](./visuals)  
 
 ---
 
@@ -44,8 +44,8 @@ Parallel analysis using **Microsoft Excel** involved:
 - Charting churn by contract, gender, tenure, and payment method
 - Exporting Excel visuals as `.png` images
 
-Excel file: [`data_excel/Telco_Churn_Analysis.xlsx`](./data_excel)  
-Excel visuals: [`visuals_excel/`](./visuals_excel)
+Excel Workbook: [`Telco_Customer_Churn_Excel_Workbook.xlsx`](./data_excel/Telco_Customer_Churn_Excel_Workbook.xlsx)  
+Excel Visuals: [`visuals_excel/`](./visuals_excel)
 
 ---
 
