@@ -46,8 +46,11 @@ Parallel analysis using **Microsoft Excel** involved:
 - Charting churn by contract, gender, tenure, and payment method
 - Exporting Excel visuals as `.png` images
 
-Excel Workbook: [`Telco_Customer_Churn_Excel_Workbook.xlsx`](./data_excel/Telco_Customer_Churn_Excel_Workbook.xlsx)  
+---
+
+Excel Workbook: [`Telco Customer Churn Excel Workbook.xlsx`](./telco_customer_churn/data/Telco%20Customer%20Churn%20Excel%20Workbook.xlsx)  
 Excel Visuals: [`visuals_excel/`](./visuals_excel)
+
 
 ---
 
