@@ -2,6 +2,7 @@
 
 This project explores customer churn behavior using multiple tools — including **Google Colab (Python)** and **Microsoft Excel** — to identify why customers leave and what can be done to reduce churn.
 
+---
 
 ##  Project Goals
 
@@ -10,6 +11,7 @@ This project explores customer churn behavior using multiple tools — including
 - Visualize insights using both Python (Colab) and Excel
 - Demonstrate cross-platform data analytics skills
 
+---
 
 ## Folder Structure
 ├── data/
@@ -21,10 +23,9 @@ This project explores customer churn behavior using multiple tools — including
 ├── requirements.txt # Python dependencies
 └── README.md # Project overview
 
-
 ---
 
-## 🐍 Google Colab Python Analysis
+##  Google Colab Python Analysis
 
 The Python-based analysis was done in **Google Colab** using:
 - `pandas` for data cleaning
@@ -36,19 +37,19 @@ The Python-based analysis was done in **Google Colab** using:
 
 ---
 
-## 📊 Excel-Based Analysis
+##  Excel-Based Analysis
 
 Parallel analysis using **Microsoft Excel** involved:
 - Creating pivot tables for segmentation
 - Charting churn by contract, gender, tenure, and payment method
 - Exporting Excel visuals as `.png` images
 
-📁 Excel file: [`data_excel/Telco_Churn_Analysis.xlsx`](./data_excel)  
-📈 Excel visuals: [`visuals_excel/`](./visuals_excel)
+Excel file: [`data_excel/Telco_Churn_Analysis.xlsx`](./data_excel)  
+Excel visuals: [`visuals_excel/`](./visuals_excel)
 
 ---
 
-## ✅ Skills Demonstrated
+##  Skills Demonstrated
 
 - Data cleaning & handling missing values
 - Exploratory Data Analysis (EDA) across two platforms
@@ -63,6 +64,7 @@ Parallel analysis using **Microsoft Excel** involved:
 Dataset: [Telco Customer Churn - Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)  
 File used: `WA_Fn-UseC_-Telco-Customer-Churn.csv`
 
+---
 
 ## Key Insights
 
@@ -76,6 +78,7 @@ File used: `WA_Fn-UseC_-Telco-Customer-Churn.csv`
 
 - Gender: No significant difference observed in churn between male and female customers.
 
+---
 
 ## Recommendations
 
@@ -84,6 +87,8 @@ File used: `WA_Fn-UseC_-Telco-Customer-Churn.csv`
 3. Incentivize auto-payment options over manual billing to reduce churn from payment-related friction.
 4. Investigate satisfaction among Fiber customers— high churn may indicate pricing or quality concerns.
 
+---
+
 ## Why This Project Matters
 
 As an aspiring **Marketing Analyst**, this project highlights:
@@ -91,6 +96,7 @@ As an aspiring **Marketing Analyst**, this project highlights:
 - Analytical thinking and technical execution
 - Professional project organization and clear communication of insights
 
+---
 
 ## Author
 
