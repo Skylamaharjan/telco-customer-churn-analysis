@@ -32,8 +32,10 @@ The Python-based analysis was done in **Google Colab** using:
 - `seaborn` and `matplotlib` for visualizations
 - EDA on churn vs contract type, gender, tenure, and internet service
 
-Notebook: [`Advertising_Analysis.ipynb`](./notebooks/Advertising_Analysis.ipynb)  
-Python Visuals: [`visuals/`](./visuals)  
+---
+
+Notebook: [`Telco_Customer_Churn.ipynb`](./telco_customer_churn/notebooks/Telco_Customer_Churn.ipynb)  
+Python Visuals: [`visuals/`](./telco_customer_churn/visuals)
 
 ---
 
